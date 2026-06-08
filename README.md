@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Kanagala Teja</h1>
-<h3>Java Backend Developer | Spring Boot · SQL </h3>
+<h3>Java Backend Developer | Spring Boot · SQL · Microservices </h3>
 </div>
 
 
