@@ -1,23 +1,22 @@
 <div align="center">
-<h1>Sunil Mallela</h1>
-<h3>Java Full Stack Developer | Spring Boot · React.js · AWS</h3>
+<h1>Kanagala Teja</h1>
+<h3>Java Backend Developer | Spring Boot · SQL </h3>
 </div>
 
 
 ---
 
-* 💼 Software Development Intern at Verifacts Services
-* 🚀 Reduced deployment cycle by **92% (2 days → 3 hours)**
+* 💼 Software Development at Tata Consultancy Services
 * 🌱 Currently learning: System Design, Microservices Scaling
-* 💬 Ask me about: Java, Spring Boot, React.js, SQL, AWS
-* 📍 Bangalore, India
+* 💬 Ask me about: Java, Spring Boot, SQL.
+* 📍 Hyderabad, India
 
 ---
 
 ### 📫 How to reach me:
 
 <p align="left">
-<a href="mailto:sunilmallela9177@gmail.com">
+<a href="mailto:tejak144@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com">
@@ -58,19 +57,18 @@
 ---
 ## 🏗️ Featured Projects
 
-### 🔹 VIBE – Background Verification Platform
+### 🔹 Vodafone - Billing System - Java Developer
 
-* Built full-stack system (React + Spring Boot + AWS)
+* Built Backend system 
 * Reduced manual work by **70%**
 * Improved processing time by **30%**
-* Zero critical bugs post deployment
 
 ---
 
 
 ### 🔹 AI Smart Email Writer
 
-* Built AI-powered email generation tool using **Spring Boot + React.js**
+* Built AI-powered email generation tool using **Spring Boot**
 * Integrated LLM API for real-time email drafting (**sub-800ms response time**)
 * Reduced manual email writing effort by **60%**
 * Designed responsive UI with async processing (no page reloads)
@@ -85,11 +83,9 @@
 * 🧠 Optimized 15+ MySQL queries — improved execution by **25%**
 * 🔐 Implemented JWT authentication — **zero security incidents**
 * 🐳 Containerized microservices with Docker — **zero environment failures**
-* ⚙️ Automated CI/CD pipelines — saved **40% DevOps effort**
-* ⚛️ Improved React.js performance — **20% faster page load**
   
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilmallela&theme=github"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejakanagala&theme=github"/>
 </p>
