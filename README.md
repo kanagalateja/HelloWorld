@@ -37,9 +37,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square"/>
 </p>
